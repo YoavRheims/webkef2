@@ -1,0 +1,5 @@
+https://blog2.webkef.com/* https://webkef.com/blog/:splat 200
+
+https://webkefblog.netlify.app/* https://webkef.com/blog/:splat 301! 
+
+https://webkef.com/blog2/* https://webkef.com/blog/:splat 301!
