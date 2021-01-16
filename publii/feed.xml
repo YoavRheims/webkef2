@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Webkef 2</title>
+    <link href="https://webkef.com/blog/feed.xml" rel="self" />
+    <link href="https://webkef.com/blog" />
+    <updated>2021-01-14T17:25:43+02:00</updated>
+    <author>
+        <name>Webkef 2</name>
+    </author>
+    <id>https://webkef.com/blog</id>
+
+    <entry>
+        <title>1</title>
+        <author>
+            <name>Webkef 2</name>
+        </author>
+        <link href="https://webkef.com/blog/1/"/>
+        <id>https://webkef.com/blog/1/</id>
+
+        <updated>2021-01-14T17:25:43+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
