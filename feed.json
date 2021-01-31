@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Webkef 2",
     "description": "",
-    "home_page_url": "https://blog.webkef.com",
-    "feed_url": "https://blog.webkef.com/feed.json",
+    "home_page_url": "https://www.webkef.com/en",
+    "feed_url": "https://www.webkef.com/en/feed.json",
     "user_comment": "",
     "author": {
         "name": "Webkef 2"
     },
     "items": [
         {
-            "id": "https://blog.webkef.com/2/",
-            "url": "https://blog.webkef.com/2/",
+            "id": "https://www.webkef.com/en/2/",
+            "url": "https://www.webkef.com/en/2/",
             "title": "2",
             "summary": "222222",
             "content_html": "<p>222222</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2021-01-16T19:13:23+02:00"
         },
         {
-            "id": "https://blog.webkef.com/1/",
-            "url": "https://blog.webkef.com/1/",
+            "id": "https://www.webkef.com/en/1/",
+            "url": "https://www.webkef.com/en/1/",
             "title": "1",
             "author": {
                 "name": "Webkef 2"
