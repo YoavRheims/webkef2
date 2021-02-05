@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Webkef 2</title>
-    <link href="https://www.webkef.com/en/feed.xml" rel="self" />
-    <link href="https://www.webkef.com/en" />
+    <link href="https://en.webkef.com/feed.xml" rel="self" />
+    <link href="https://en.webkef.com" />
     <updated>2021-02-05T13:38:17+02:00</updated>
     <author>
         <name>Webkef 2</name>
     </author>
-    <id>https://www.webkef.com/en</id>
+    <id>https://en.webkef.com</id>
 
     <entry>
         <title>2</title>
         <author>
             <name>Webkef 2</name>
         </author>
-        <link href="https://www.webkef.com/en/2/"/>
-        <id>https://www.webkef.com/en/2/</id>
+        <link href="https://en.webkef.com/2/"/>
+        <id>https://en.webkef.com/2/</id>
 
         <updated>2021-02-05T13:38:17+02:00</updated>
             <summary>
@@ -28,8 +28,8 @@
             <![CDATA[
                 <p>222222</p>
 
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.webkef.com/en/media/posts/2/IMG_20210101_100722.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_100722-xs.jpg 300w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_100722-sm.jpg 480w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_100722-md.jpg 768w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_100722-lg.jpg 1024w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_100722-xl.jpg 1360w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_100722-2xl.jpg 1600w"  alt="test" width="4208" height="3120"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.webkef.com/en/media/posts/2/IMG_20210101_085226.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_085226-xs.jpg 300w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_085226-sm.jpg 480w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_085226-md.jpg 768w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_085226-lg.jpg 1024w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_085226-xl.jpg 1360w ,https://www.webkef.com/en/media/posts/2/responsive/IMG_20210101_085226-2xl.jpg 1600w"  alt="test" width="4208" height="3120"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://en.webkef.com/media/posts/2/IMG_20210101_100722.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://en.webkef.com/media/posts/2/responsive/IMG_20210101_100722-xs.jpg 300w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_100722-sm.jpg 480w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_100722-md.jpg 768w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_100722-lg.jpg 1024w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_100722-xl.jpg 1360w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_100722-2xl.jpg 1600w"  alt="test" width="4208" height="3120"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://en.webkef.com/media/posts/2/IMG_20210101_085226.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://en.webkef.com/media/posts/2/responsive/IMG_20210101_085226-xs.jpg 300w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_085226-sm.jpg 480w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_085226-md.jpg 768w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_085226-lg.jpg 1024w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_085226-xl.jpg 1360w ,https://en.webkef.com/media/posts/2/responsive/IMG_20210101_085226-2xl.jpg 1600w"  alt="test" width="4208" height="3120"></figure>
 <p> </p>
             ]]>
         </content>
@@ -39,8 +39,8 @@
         <author>
             <name>Webkef 2</name>
         </author>
-        <link href="https://www.webkef.com/en/1/"/>
-        <id>https://www.webkef.com/en/1/</id>
+        <link href="https://en.webkef.com/1/"/>
+        <id>https://en.webkef.com/1/</id>
 
         <updated>2021-01-14T17:25:43+02:00</updated>
             <summary></summary>
