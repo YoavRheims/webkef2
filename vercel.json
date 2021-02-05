@@ -1,0 +1,7 @@
+{
+  "trailingSlash": true
+},
+  "routes": [
+    { "src": "/en(.*)", "dest": "en$1" },
+    { "src": "(.*)", "dest": "/$1" }
+  ]
