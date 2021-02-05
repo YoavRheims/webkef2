@@ -13,16 +13,16 @@ on:
 jobs:
   Convert-to-WEBP:
     runs-on: ubuntu-latest
-    #strategy: # Proper way to prepare which python to use
-    #  matrix:
-    #    python-version: [3]
+    strategy: # Proper way to prepare which python to use
+      matrix:
+        python-version: [3]
     env:
       WEBPCONVERTERARGS: --r -q=100 # These are args, --r is required, q is quality
     steps:
-      #- name: Set up Python ${{ matrix.python-version }}
-      #  uses: actions/setup-python@v2
-      #  with:
-      #    python-version: ${{ matrix.python-version }} # Adept to strategy to use python3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }} # Adept to strategy to use python3
       - name: Install dependencies
         run: | # We install webp and then the webp-converter
           sudo apt install webp -y
